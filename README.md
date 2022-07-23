@@ -1,5 +1,4 @@
 ## Iae! sou o victor edson e estou iniciando na carreira como programador!!😉
-<div style="display:flex; flex-direction:column; align-items:center">
   ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorEdsonsr&show_icons=true&theme=dark&count_private=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoredsonsr&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
   <div style"display: inline_block"></br>
@@ -11,4 +10,4 @@
 
 Apaixonado por tecnologia e sigo aprendendo sobre, cada dia mais.
   </div>
-</div>
+
