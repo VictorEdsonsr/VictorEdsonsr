@@ -1,17 +1,29 @@
-## Iae! sou o victor edson e estou iniciando na carreira como programador!!😉
+
+
+<div align="center" >
+<h1 align="center">Hi, I'm Victor Edson</h1>
+Software Developer </br>
+</div>
+</br>
+</br>
+<div align="center">
+  <a href="https://github.com/VictorEdsonsr">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victoredsonsr&show_icons=true&icon_color=FFD93D&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoredsonsr&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
   
-
-  ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorEdsonsr&show_icons=true&theme=dark&count_private=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoredsonsr&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-
-  <div style"display: inline_block"></br>
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
-
-Apaixonado por tecnologia e sigo aprendendo sobre, cada dia mais.
+  ##
+  
+  <div> 
+  <a href = "mailto:edvictrsr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/https://www.linkedin.com/in/victor-edson-reis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+    
   </div>
-
-
