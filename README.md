@@ -1,7 +1,7 @@
 
 
 <div align="center" >
-<h1 align="center">Hi, I'm Victor Edson</h1>
+<h1 align="center">I'm Victor Edson</h1>
 Software Developer and student</br>
 </div>
 </br>
